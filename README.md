@@ -1,5 +1,5 @@
 # demo1
-this is asecond repo
+this is a second repo
 
 #hi
 rohit
